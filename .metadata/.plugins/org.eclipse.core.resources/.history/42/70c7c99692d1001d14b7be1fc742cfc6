@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<form>
+	Enterr first Number : <input type="text" name="Name One">
+	Enterr Second Number : <input type="text" name="Name Two">
+	 <input type="submit">
+	
+	</form>
+</body>
+</html>
